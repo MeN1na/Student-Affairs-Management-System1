@@ -1,0 +1,115 @@
+﻿@page "/"
+@inject IStringLocalizer<Resource> _localizer
+
+<section class="home">
+    <div>
+        <h2>@_localizer["WelcometoSelimUniversity"]<br><span>@_localizer["StudentAffairsManagementSystem"]<br></span></h2>
+        <p><h1 class="text-white bg-dark">@_localizer["Registerasa/an"] :</h1></p>
+        <a @onclick="NavigateToStudent" class="StaudentRegistration">@_localizer["Student"]</a>
+        <a @onclick="NavigateToApplicant" class="ApplicantRegistration">@_localizer["Applicant"]</a>
+        <a @onclick="NavigateToStaff" class="StaffRegistration">@_localizer["FacultyStaff"]</a>
+        <a @onclick="NavigateToEmployee" class="EmployeeRegistration">@_localizer["Employee"]</a>
+    </div>
+</section>
+<style>
+    .home {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.home h2 {
+    color: #7d3c98;
+    font-size: 1.4em;
+    font-weight: 400;
+}
+
+.home h2 span {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 3em;
+    font-weight: 600;
+     color: #5b2c6f;
+}
+
+.home h1 {
+    font-size: 1.4em;
+    font-weight: 400;
+ 
+}
+
+.StaudentRegistration, .ApplicantRegistration, .StaffRegistration, .EmployeeRegistration {
+        background-color: #5b2c6f;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: #fafafa;
+    padding: 0.8375em 2.0875em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    transition: 0.5s ease;
+    display: inline-block;
+}
+
+.StaudentRegistration:hover, .ApplicantRegistration:hover, .StaffRegistration:hover, .EmployeeRegistration:hover {
+            background-color: #7d3c98;
+    transform: scale(1.1);
+}
+</style>
+@code {
+    [Inject] private NavigationManager? Navigation { get; set; }
+
+    private void NavigateToStudent()
+    {
+        if (Navigation != null)
+        {
+            Navigation.NavigateTo("/student-registration");
+        }
+        else
+        {
+            Console.WriteLine("NavigationManager is not initialized.");
+        }
+    }
+
+    private void NavigateToApplicant()
+    {
+        if (Navigation != null)
+        {
+            Navigation.NavigateTo("/applicant-registration");
+        }
+        else
+        {
+            Console.WriteLine("NavigationManager is not initialized.");
+        }
+    }
+
+    private void NavigateToStaff()
+    {
+        if (Navigation != null)
+        {
+            Navigation.NavigateTo("/staff-registration");
+        }
+        else
+        {
+            Console.WriteLine("NavigationManager is not initialized.");
+        }
+    }
+
+    private void NavigateToEmployee()
+    {
+        if (Navigation != null)
+        {
+            Navigation.NavigateTo("/employee-registration");
+        }
+        else
+        {
+            Console.WriteLine("NavigationManager is not initialized.");
+        }
+    }
+}
+

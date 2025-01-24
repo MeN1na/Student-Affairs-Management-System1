@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AcademicEmail" xml:space="preserve">
+    <value>الايميل الجامعي</value>
+  </data>
+  <data name="AcademicEmailinfo" xml:space="preserve">
+    <value>قم بالوصول إلى بريدك الإلكتروني الرسمي الخاص بالجامعة للحصول على التحديثات الهامة والاتصالات والإعلانات المتعلقة بطلبك.</value>
+  </data>
+  <data name="AcademicEmailstudent" xml:space="preserve">
+    <value>الايميل الجامعي</value>
+  </data>
+  <data name="Age" xml:space="preserve">
+    <value>العمر</value>
+  </data>
+  <data name="Applicant" xml:space="preserve">
+    <value>مستجد</value>
+  </data>
+  <data name="ApplicantRegistration" xml:space="preserve">
+    <value>تسجيل المستجدين</value>
+  </data>
+  <data name="Applicants" xml:space="preserve">
+    <value>المتقدمين</value>
+  </data>
+  <data name="ApplicationRequirements" xml:space="preserve">
+    <value>متطلبات التقديم</value>
+  </data>
+  <data name="ApplicationRequirementsinfo" xml:space="preserve">
+    <value>قم بمراجعة المستندات والمعايير الأساسية اللازمة لإكمال عملية التقديم الخاصة بك بنجاح.</value>
+  </data>
+  <data name="BifurcationServices" xml:space="preserve">
+    <value>خدمـات التشعيب</value>
+  </data>
+  <data name="BifurcationServicesinfo" xml:space="preserve">
+    <value>تعرف على المزيد حول الاقسام المتاحة للطلاب للتشعيب.</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>مسح</value>
+  </data>
+  <data name="Department" xml:space="preserve">
+    <value>القسم</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>البريد الالكتروني</value>
+  </data>
+  <data name="Employee" xml:space="preserve">
+    <value>موظف</value>
+  </data>
+  <data name="EmployeeRegistration" xml:space="preserve">
+    <value>التسجيل كوظف</value>
+  </data>
+  <data name="Employees" xml:space="preserve">
+    <value>الموظفين</value>
+  </data>
+  <data name="Enteryourage" xml:space="preserve">
+    <value>ادخل عمرك</value>
+  </data>
+  <data name="EnteryourDepartment" xml:space="preserve">
+    <value>القسم المنتمي اليه</value>
+  </data>
+  <data name="Enteryouremail" xml:space="preserve">
+    <value>ادخل بريدك الالكتروني</value>
+  </data>
+  <data name="Enteryourmobile" xml:space="preserve">
+    <value>ادخل رقم هاتفك</value>
+  </data>
+  <data name="Enteryourname" xml:space="preserve">
+    <value>ادخل اسمك</value>
+  </data>
+  <data name="Enteryourrole" xml:space="preserve">
+    <value>ادخل المسمي الوظيفي</value>
+  </data>
+  <data name="EnteryourScholarship" xml:space="preserve">
+    <value>ادخل نوع المنحة الدراسية</value>
+  </data>
+  <data name="Enteryourschoolname" xml:space="preserve">
+    <value>ادخل اسم مدرستك للمرحلة الثانوية</value>
+  </data>
+  <data name="ExploreOptions" xml:space="preserve">
+    <value>المزيد</value>
+  </data>
+  <data name="FacultyStaff" xml:space="preserve">
+    <value>أعضاء هيئة التدريس</value>
+  </data>
+  <data name="FacultyStaffRegistration" xml:space="preserve">
+    <value>تسجيل أعضاء هيئة التدريس</value>
+  </data>
+  <data name="GotoEmail" xml:space="preserve">
+    <value>اذهب للايميل</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+  <data name="Id" xml:space="preserve">
+    <value>الرقم التعريفي</value>
+  </data>
+  <data name="InformationTable" xml:space="preserve">
+    <value>البيانات </value>
+  </data>
+  <data name="JobDescriptionGuide" xml:space="preserve">
+    <value>دليل الوصف الوظيفي</value>
+  </data>
+  <data name="JobDescriptionGuideinfo" xml:space="preserve">
+    <value>المبادئ التوجيهية لكتابة التوصيف الوظيفي الفعال.</value>
+  </data>
+  <data name="Jobs" xml:space="preserve">
+    <value>الوظائف</value>
+  </data>
+  <data name="Jobsinfo" xml:space="preserve">
+    <value> اطلع علي فرص العمل المتاحة و كيفية التقديم.</value>
+  </data>
+  <data name="ManageAccommodation" xml:space="preserve">
+    <value>إدارة الإقامة</value>
+  </data>
+  <data name="Mobile" xml:space="preserve">
+    <value>رقم الهاتف</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="Operations" xml:space="preserve">
+    <value>العملية</value>
+  </data>
+  <data name="Ourservices" xml:space="preserve">
+    <value>خدماتنا</value>
+  </data>
+  <data name="ReadGuide" xml:space="preserve">
+    <value>قراءة الدليل</value>
+  </data>
+  <data name="Registerasa/an" xml:space="preserve">
+    <value>قم بالتسجيل ك</value>
+  </data>
+  <data name="RegisteredApplicants" xml:space="preserve">
+    <value>المستجدين بالجامعة</value>
+  </data>
+  <data name="RegisteredEmployees" xml:space="preserve">
+    <value>الموظفين بالجامعة</value>
+  </data>
+  <data name="RegisteredFacultyStaff" xml:space="preserve">
+    <value>اعضاء هيئة التدريس</value>
+  </data>
+  <data name="RegisteredStudents" xml:space="preserve">
+    <value>الطلاب المقيدون بالجامعة</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>الغاء</value>
+  </data>
+  <data name="Role" xml:space="preserve">
+    <value>الوظيفة</value>
+  </data>
+  <data name="Scholarships" xml:space="preserve">
+    <value>المنح الدراسية</value>
+  </data>
+  <data name="Scholarshipsinfo" xml:space="preserve">
+    <value>استكشف مجموعة من فرص المنح الدراسية المتاحة للمتقدمين وتحقق من حالة طلباتك الحالية.</value>
+  </data>
+  <data name="ScholarshipType" xml:space="preserve">
+    <value>نوع المنحة الدراسية</value>
+  </data>
+  <data name="SecondarySchoolName" xml:space="preserve">
+    <value>المدرسة الثانوية</value>
+  </data>
+  <data name="StartTransfer" xml:space="preserve">
+    <value>متطلبات التحويل</value>
+  </data>
+  <data name="StatusStatement" xml:space="preserve">
+    <value>بيان حالة الموظف</value>
+  </data>
+  <data name="StatusStatementinfo" xml:space="preserve">
+    <value>إنشاء مستند واضح وموجز يوضح المنصب الحالي للموظف وحالته الوظيفية والتفاصيل ذات الصلة.</value>
+  </data>
+  <data name="Student" xml:space="preserve">
+    <value>طالب</value>
+  </data>
+  <data name="StudentAccommodation" xml:space="preserve">
+    <value>سكن الطلاب</value>
+  </data>
+  <data name="StudentAccommodationinfo" xml:space="preserve">
+    <value>ابحث عن خيارات الإقامة داخل السكن الجامعي وخارجه، وقدم طلب السكن الخاص بك أو قم بإدارة الطلبات الحالية.</value>
+  </data>
+  <data name="StudentAffairsManagementSystem" xml:space="preserve">
+    <value>نظام شئون الطلبة</value>
+  </data>
+  <data name="StudentRegistration" xml:space="preserve">
+    <value>التسجيل كطالب</value>
+  </data>
+  <data name="Students" xml:space="preserve">
+    <value>الطلاب</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>تسجيل</value>
+  </data>
+  <data name="TransferService" xml:space="preserve">
+    <value>خدمات التحويل</value>
+  </data>
+  <data name="TransferServiceinfo" xml:space="preserve">
+    <value>اكتشف كيفية التحويل بين الأقسام أو الجامعات المختلفة وإدارة طلب التحويل الخاص بك.</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>عرض</value>
+  </data>
+  <data name="ViewDetails" xml:space="preserve">
+    <value>عرض التفاصيل</value>
+  </data>
+  <data name="ViewJobs" xml:space="preserve">
+    <value>عرض الوظائف</value>
+  </data>
+  <data name="WelcometoSelimUniversity" xml:space="preserve">
+    <value>اهلا بك في جامعة سليم</value>
+  </data>
+</root>

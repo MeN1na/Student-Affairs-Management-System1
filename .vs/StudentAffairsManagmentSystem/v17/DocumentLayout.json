@@ -1,0 +1,1009 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\layout\\cultureselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\layout\\cultureselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\resources\\resource.ar-eg.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:resources\\resource.ar-eg.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\resources\\resource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:resources\\resource.en-us.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\validation\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:validation\\employeevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\validation\\applicantvalidatorcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:validation\\applicantvalidatorcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\repositories\\ifacultystaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:repositories\\ifacultystaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\repositories\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:repositories\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\repositories\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:repositories\\employeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\employees.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\employees.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\employeesservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\employeesservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\students.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\students.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\iemployeesunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\iemployeesunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\facultystaffservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\facultystaffservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entityconfigurations\\employeesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entityconfigurations\\employeesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\employeesunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\employeesunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\repositories\\facultystaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:repositories\\facultystaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\repositories\\iapplicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:repositories\\iapplicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entityconfigurations\\facultystaffconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entityconfigurations\\facultystaffconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\repositories\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:repositories\\studentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\students.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\students.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\applicantservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\applicantservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\iapplicantsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\iapplicantsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\studentsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\studentsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\repositories\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:repositories\\applicantsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\istudentsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\istudentsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\facultystaffunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\facultystaffunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\ifacultystaffunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\ifacultystaffunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\migrations\\20240928163733_addinitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:migrations\\20240928163733_addinitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entityconfigurations\\applicantsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entityconfigurations\\applicantsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\applicants.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\applicants.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\applicants.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\applicants.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entities\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entities\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Migrations\\20240928154452_AddInitDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240928154452_AddInitDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\fucltystaff.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\fucltystaff.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\studentservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\studentservices.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\modal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\modal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\fucltystaff.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\fucltystaff.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\pages\\fucltystaff.razor.cs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\pages\\fucltystaff.razor.cs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\blazorappserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:blazorappserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\studentsaffairsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:studentsaffairsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\entityconfigurations\\studentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:entityconfigurations\\studentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\validation\\facultystaffvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:validation\\facultystaffvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\unitofwork\\applicantsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:unitofwork\\applicantsunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C1E30CD3-E82A-4A05-9326-9B959F78068F}|BlazorAppServer.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\innotech\\code2\\blazorappserver2\\blazorappserver\\resources\\resource.de-ch.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\resource.de-ch.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Resource.de-CH.resx",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Resources\\Resource.de-CH.resx",
+              "RelativeDocumentMoniker": "Resources\\Resource.de-CH.resx",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Resources\\Resource.de-CH.resx",
+              "RelativeToolTip": "Resources\\Resource.de-CH.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-02T17:58:46.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.ar-EG.resx",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Resources\\Resource.ar-EG.resx",
+              "RelativeDocumentMoniker": "Resources\\Resource.ar-EG.resx",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Resources\\Resource.ar-EG.resx",
+              "RelativeToolTip": "Resources\\Resource.ar-EG.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-02T17:57:11.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CultureSelector.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\CultureSelector.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\CultureSelector.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\CultureSelector.razor",
+              "RelativeToolTip": "Components\\Layout\\CultureSelector.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T17:46:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.en-US.resx",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Resources\\Resource.en-US.resx",
+              "RelativeDocumentMoniker": "Resources\\Resource.en-US.resx",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Resources\\Resource.en-US.resx",
+              "RelativeToolTip": "Resources\\Resource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-02T17:36:30.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:53:17.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Components\\Routes.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Routes.razor",
+              "RelativeToolTip": "Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T20:11:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "GlobalUsing.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\GlobalUsing.cs",
+              "RelativeToolTip": "GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:43:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicantValidatorcs.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Validation\\ApplicantValidatorcs.cs",
+              "RelativeDocumentMoniker": "Validation\\ApplicantValidatorcs.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Validation\\ApplicantValidatorcs.cs",
+              "RelativeToolTip": "Validation\\ApplicantValidatorcs.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:28:40.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:26:55.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeesRepository.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\IEmployeesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeesRepository.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\IEmployeesRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:40:44.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeValidator.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Validation\\EmployeeValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\EmployeeValidator.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Validation\\EmployeeValidator.cs",
+              "RelativeToolTip": "Validation\\EmployeeValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:28:23.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesRepository.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\EmployeesRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeesRepository.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\EmployeesRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:40:55.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employees.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Employees.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Employees.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Employees.razor",
+              "RelativeToolTip": "Components\\Pages\\Employees.razor",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T05:57:16.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFacultyStaffRepository.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\IFacultyStaffRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFacultyStaffRepository.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\IFacultyStaffRepository.cs",
+              "RelativeToolTip": "Repositories\\IFacultyStaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:39:41.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeesServices.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\EmployeesServices.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EmployeesServices.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\EmployeesServices.razor",
+              "RelativeToolTip": "Components\\Pages\\EmployeesServices.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:55:39.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Students.razor.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Students.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Students.razor.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Students.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Students.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:52:16.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employees.razor.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Employees.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Employees.razor.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Employees.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Employees.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:39:35.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "Entities\\Staff.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Staff.cs",
+              "RelativeToolTip": "Entities\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:26:55.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmployeesUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IEmployeesUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\IEmployeesUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IEmployeesUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\IEmployeesUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:14:06.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FacultyStaffServices.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FacultyStaffServices.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\FacultyStaffServices.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FacultyStaffServices.razor",
+              "RelativeToolTip": "Components\\Pages\\FacultyStaffServices.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:55:16.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:26:55.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeesConfiguration.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\EmployeesConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\EmployeesConfiguration.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\EmployeesConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\EmployeesConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:43:41.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeesUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\EmployeesUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\EmployeesUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\EmployeesUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\EmployeesUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:14:21.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FacultyStaffRepository.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\FacultyStaffRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FacultyStaffRepository.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\FacultyStaffRepository.cs",
+              "RelativeToolTip": "Repositories\\FacultyStaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:40:03.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IApplicantsRepository.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\IApplicantsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IApplicantsRepository.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\IApplicantsRepository.cs",
+              "RelativeToolTip": "Repositories\\IApplicantsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:41:33.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FacultyStaffConfiguration.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\FacultyStaffConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\FacultyStaffConfiguration.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\FacultyStaffConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\FacultyStaffConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:44:04.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentsRepository.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\StudentsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentsRepository.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\StudentsRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:45:31.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Students.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Students.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Students.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Students.razor",
+              "RelativeToolTip": "Components\\Pages\\Students.razor",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswE8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T06:56:10.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T19:51:38.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicantServices.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\ApplicantServices.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ApplicantServices.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\ApplicantServices.razor",
+              "RelativeToolTip": "Components\\Pages\\ApplicantServices.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T21:20:12.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:26:55.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IApplicantsUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IApplicantsUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\IApplicantsUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IApplicantsUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\IApplicantsUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:16:07.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentsUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\StudentsUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\StudentsUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\StudentsUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\StudentsUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:48:58.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicantsRepository.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\ApplicantsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ApplicantsRepository.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Repositories\\ApplicantsRepository.cs",
+              "RelativeToolTip": "Repositories\\ApplicantsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:45:49.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IStudentsUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IStudentsUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\IStudentsUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IStudentsUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\IStudentsUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:48:16.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FacultyStaffUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\FacultyStaffUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\FacultyStaffUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\FacultyStaffUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\FacultyStaffUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:13:20.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IFacultyStaffUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IFacultyStaffUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\IFacultyStaffUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\IFacultyStaffUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\IFacultyStaffUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:12:57.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240928163733_AddInitDB.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Migrations\\20240928163733_AddInitDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240928163733_AddInitDB.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Migrations\\20240928163733_AddInitDB.cs",
+              "RelativeToolTip": "Migrations\\20240928163733_AddInitDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:37:34.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicantsConfiguration.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\ApplicantsConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\ApplicantsConfiguration.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\ApplicantsConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\ApplicantsConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:32:37.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Applicants.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Applicants.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Applicants.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Applicants.razor",
+              "RelativeToolTip": "Components\\Pages\\Applicants.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T12:31:34.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Applicants.razor.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Applicants.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Applicants.razor.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Applicants.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Applicants.razor.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:32:57.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T18:58:45.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Applicant.cs",
+              "RelativeDocumentMoniker": "Entities\\Applicant.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Entities\\Applicant.cs",
+              "RelativeToolTip": "Entities\\Applicant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:26:54.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T21:34:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240928154452_AddInitDB.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Migrations\\20240928154452_AddInitDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240928154452_AddInitDB.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Migrations\\20240928154452_AddInitDB.cs",
+              "RelativeToolTip": "Migrations\\20240928154452_AddInitDB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:44:53.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FucltyStaff.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FucltyStaff.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\FucltyStaff.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FucltyStaff.razor",
+              "RelativeToolTip": "Components\\Pages\\FucltyStaff.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T05:56:28.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StudentServices.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\StudentServices.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\StudentServices.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\StudentServices.razor",
+              "RelativeToolTip": "Components\\Pages\\StudentServices.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T21:05:25.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Modal.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Modal.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Modal.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\Modal.razor",
+              "RelativeToolTip": "Components\\Pages\\Modal.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T20:12:48.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:31:34.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:58:36.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AuthenticationLayout.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\AuthenticationLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\AuthenticationLayout.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\AuthenticationLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\AuthenticationLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T20:15:11.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FucltyStaff.razor.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FucltyStaff.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\FucltyStaff.razor.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FucltyStaff.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\FucltyStaff.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:57:45.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FucltyStaff.razor.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FucltyStaff.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\FucltyStaff.razor.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Pages\\FucltyStaff.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\FucltyStaff.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T20:43:02.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T20:18:42.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BlazorAppServer.csproj",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\BlazorAppServer.csproj",
+              "RelativeDocumentMoniker": "BlazorAppServer.csproj",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\BlazorAppServer.csproj",
+              "RelativeToolTip": "BlazorAppServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T19:53:22.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StudentsAffairsDbContext.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\StudentsAffairsDbContext.cs",
+              "RelativeDocumentMoniker": "StudentsAffairsDbContext.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\StudentsAffairsDbContext.cs",
+              "RelativeToolTip": "StudentsAffairsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:09:26.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T22:28:36.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StudentsConfiguration.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\StudentsConfiguration.cs",
+              "RelativeDocumentMoniker": "EntityConfigurations\\StudentsConfiguration.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\EntityConfigurations\\StudentsConfiguration.cs",
+              "RelativeToolTip": "EntityConfigurations\\StudentsConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:42:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FacultyStaffValidator.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Validation\\FacultyStaffValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\FacultyStaffValidator.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Validation\\FacultyStaffValidator.cs",
+              "RelativeToolTip": "Validation\\FacultyStaffValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:28:04.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:41:37.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ApplicantsUnitOfWork.cs",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\ApplicantsUnitOfWork.cs",
+              "RelativeDocumentMoniker": "UnitOfWork\\ApplicantsUnitOfWork.cs",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\UnitOfWork\\ApplicantsUnitOfWork.cs",
+              "RelativeToolTip": "UnitOfWork\\ApplicantsUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:18:09.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "D:\\innotech\\code2\\BlazorAppServer2\\BlazorAppServer\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T21:43:50.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

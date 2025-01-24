@@ -1,0 +1,51 @@
+﻿@page "/student"
+@inject IStringLocalizer<Resource> _localizer
+
+<h3>@_localizer["Students"]</h3>
+<div class="row">
+    <div class="col-sm-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@_localizer["AcademicEmail"]</h5>
+                <p class="card-text">@_localizer["AcademicEmailstudent"]</p>
+                <a href="#" class="btn btn-primary" aria-label="View">@_localizer["GotoEmail"]</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@_localizer["BifurcationServices"]</h5>
+                <p class="card-text">@_localizer["BifurcationServicesinfo"]</p>
+                <a href="#" class="btn btn-primary" aria-label="View">@_localizer["ExploreOptions"]</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@_localizer["TransferService"]</h5>
+                <p class="card-text">@_localizer["TransferServiceinfo"]</p>
+                <a href="#" class="btn btn-primary" aria-label="View">@_localizer["StartTransfer"]</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@_localizer["StudentAccommodation"]</h5>
+                <p class="card-text">@_localizer["StudentAccommodationinfo"]</p>
+                <a href="#" class="btn btn-primary" aria-label="Staff Affairs Guide">@_localizer["ManageAccommodation"]</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+   
+}

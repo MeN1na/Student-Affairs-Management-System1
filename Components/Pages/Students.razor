@@ -1,0 +1,87 @@
+﻿@page "/student-registration"
+@inject IStringLocalizer<Resource> _localizer
+@namespace BlazorAppServer
+
+<h3>@_localizer["StudentRegistration"]</h3>
+
+@if (student is not null)
+{
+    <EditForm Model="@student" OnValidSubmit="@( async ()=> await HandleValidSubmit() )">
+
+        <FluentValidationValidator />
+        <ValidationSummary />
+
+        <div class="mb-3">
+            <label for="name" class="form-label"> @_localizer["Name"]:</label>
+            <InputText class="form-control" @bind-Value="@student.Name" placeholder=@_localizer["Enteryourname"] />
+            <ValidationMessage For="@(() => student.Name)" />
+        </div>
+        <div class="mb-3">
+            <label for="name" class="form-label">@_localizer["Mobile"]:</label>
+            <InputText class="form-control" @bind-Value="@student.Mobile" placeholder=@_localizer["Enteryourmobile"] />
+            <ValidationMessage For="@(() => student.Mobile)" />
+        </div>
+
+        <div class="mb-3">
+            <label for="email" class="form-label">@_localizer["Email"]:</label>
+            <InputText type="email" class="form-control" @bind-Value="@student.Email" placeholder=@_localizer["Enteryouremail"] />
+            <ValidationMessage For="@(() => student.Email)" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">@_localizer["Age"]:</label>
+            <InputNumber class="form-control" @bind-Value="@student.Age" placeholder=@_localizer["Enteryourage"] />
+            <ValidationMessage For="@(() => student.Age)" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">@_localizer["ScholarshipType"]:</label>
+            <InputText class="form-control" @bind-Value="@student.ScholarShipType" placeholder=@_localizer["EnteryourScholarship"] />
+            <ValidationMessage For="@(() => student.ScholarShipType)" />
+        </div>
+
+        <ValidationSummary />
+
+        <button type="submit" class="btn btn-primary">@_localizer["Submit"]</button>
+        <button type="reset" class="btn btn-danger">@_localizer["Reset"]</button>
+        <button type="button" class="btn btn-warning" @onclick="@( ()=> Clear() )">@_localizer["Clear"]</button>
+    </EditForm>
+}
+
+
+<h1>@_localizer["RegisteredStudents"]</h1>
+<div class="container mt-5">
+    <h2>@_localizer["InformationTable"]</h2>
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">@_localizer["Name"]</th>
+                <th scope="col">@_localizer["Mobile"]</th>
+                <th scope="col"> @_localizer["Age"]</th>
+                <th scope="col">@_localizer["Employee"]</th>
+                <th scope="col">@_localizer["ScholarshipType"]</th>
+                <th scope="col">@_localizer["Operations"]</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Student item in students ?? new())
+            {
+                <tr>
+                    <td scope="col">@item.Name</td>
+                    <td scope="col">@item.Mobile</td>
+                    <td scope="col">@item.Email</td>
+                    <td scope="col">@item.Age</td>
+                    <td scope="col">@item.ScholarShipType</td>
+                    <td scope="col">
+                        <a href="javascript:void(0)" onclick="@( ()=> EditStudent(item) )" class="m-1"><i class="bi bi-pencil-fill"></i> </a>
+                        <a href="javascript:void(0)" @onclick="ShowModal" class="m-1"><i class="bi bi-trash3 text-danger "></i></a>
+                        <Modal @ref="modalComponent" Id="@Guid.NewGuid()" ModalTitle="delete" Message="are you sure" OnSave="()=>DeleteStudent(item)" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+

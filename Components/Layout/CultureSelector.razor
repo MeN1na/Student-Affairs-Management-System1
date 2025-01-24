@@ -1,0 +1,11 @@
+﻿@namespace BlazorAppServer.Components.Layout
+@inject NavigationManager _navManager
+
+<strong>Culture:</strong>
+<select class="form-control" @bind="Culture" style="width:200px; margin-left:10px;">
+    @foreach (CultureInfo culture in cultures)
+    {
+        <option value="@culture.Name">@culture.DisplayName</option>
+    }
+</select>
+

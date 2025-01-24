@@ -1,0 +1,39 @@
+﻿@page "/Employees"
+@inject IStringLocalizer<Resource> _localizer
+
+<h3>@_localizer["Employees"]</h3>
+<div class="row">
+    <div class="col-sm-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@_localizer["StatusStatement"]</h5>
+                <p class="card-text">@_localizer["StatusStatementinfo"]</p>
+                <a href="#" class="btn btn-primary" aria-label="View Status Statement">@_localizer["ViewDetails"]</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@_localizer["Jobs"]</h5>
+                <p class="card-text">@_localizer["Jobsinfo"]</p>
+                <a href="#" class="btn btn-primary" aria-label="View Jobs">@_localizer["ViewJobs"]</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@_localizer["JobDescriptionGuide"]</h5>
+                <p class="card-text">@_localizer["JobDescriptionGuideinfo"]</p>
+                <a href="#" class="btn btn-primary" aria-label="Job Description Guide">@_localizer["ReadGuide"]</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+
+}
